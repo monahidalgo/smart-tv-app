@@ -1,2 +1,2 @@
 # smart-tv-app
-Smart tv app for Google or Vizio 
+Smart TV App for Google or Vizio 
